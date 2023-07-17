@@ -1,0 +1,10 @@
+Name of the family,Encoded value of the family,No of Clusters,Silhouette Score
+adload,0,3,0.9083379037208875
+agent,1,3,0.685222908381814
+benign,2,2,0.8954081078761281
+obfuscator,3,2,0.9259817268033387
+renos,4,9,0.7316164458579801
+startpage,5,9,0.74203336115198
+vobfus,6,3,0.4152243808570905
+winwebsec,7,7,0.8516132895645614
+zeroaccess,8,4,0.9586440025985754
