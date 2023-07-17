@@ -1,0 +1,5 @@
+$ cd C:\Users\user\Downloads
+$ git lfs install
+$ git lfs track "dll.csv"
+$ git add dll.csv
+$ git commit -m "dll.csv"
