@@ -95,3 +95,9 @@ CleverHans is a popular library for adversarial machine learning research. It in
 - **CleverHans Documentation**: [CleverHans GitHub](https://github.com/cleverhans-lab/cleverhans)
 - **TensorFlow Tutorials**: [TensorFlow Tutorials](https://www.tensorflow.org/tutorials)
 - **Adversarial ML Resources**: [Adversarial Machine Learning](https://paperswithcode.com/task/adversarial-attack)
+
+
+
+To access the full documentation regarding your AML project that includes building and retraining a DNN model with adversarial data using the CleverHans tool for evasion attacks, you can refer to the provided PDF file on GitHub. Here is the link to the document:
+
+[AML Project Documentation](https://github.com/ShatrughanGusain18/aml_project/blob/main/AML.pdf)
